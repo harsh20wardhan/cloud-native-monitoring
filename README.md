@@ -1,5 +1,7 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
+### Reference : [CLOUD CHAMP](https://youtu.be/kBWCsHEcWnc)
+
 ## Things you will Learn 🤯
 
 1. Python and How to create Monitoring Application in Python using Flask and psutil
@@ -12,11 +14,6 @@
 4. Create ECR repository using Python Boto3 and pushing Docker Image to ECR
 5. Learn Kubernetes and Create EKS cluster and Nodegroups
 6. Create Kubernetes Deployments and Services using Python!
-
-# **Youtube Video for step by step Demonstration!**
-
-[![Video Tutorial](https://img.youtube.com/vi/kBWCsHEcWnc/0.jpg)](https://youtu.be/kBWCsHEcWnc)
-
 
 ## **Prerequisites** !
 
